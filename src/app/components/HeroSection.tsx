@@ -5,7 +5,7 @@ import AppImage from '@/components/ui/AppImage';
 import Icon from '@/components/ui/AppIcon';
 import { portfolioData } from '@/data/portfolioData';
 
-const PROFILE_IMAGE = '';
+const PROFILE_IMAGE = '/assets/images/rituraj.jpg';
 
 const titles = [
   'CSE Diploma Student',
@@ -90,7 +90,7 @@ export default function HeroSection() {
               <h1 className="text-5xl sm:text-6xl lg:text-7xl xl:text-8xl font-extrabold tracking-tight leading-none">
                 Hi, I&apos;m{' '}
                 <span className="text-gradient-green block sm:inline">
-                  {personal.firstName}
+                  {personal.name}
                 </span>
               </h1>
             </div>

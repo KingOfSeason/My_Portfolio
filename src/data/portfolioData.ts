@@ -58,17 +58,17 @@ export const portfolioData = {
     description:
     'A passionate Computer Science Engineering student from Fatehpur, UP, India. I build practical software projects using C#, Java, JavaScript, and web technologies — turning ideas into working applications.',
     location: 'Fatehpur, Uttar Pradesh, India',
-    email: 'riturajshukla@example.com',
-    phone: '+91 98765 43210',
-    linkedIn: 'https://linkedin.com/in/riturajshukla',
-    github: 'https://github.com/riturajshukla',
-    instagram: 'https://instagram.com/riturajshukla',
-    resumeUrl: '#',
+    email: 'shuklarituraj1902@gmail.com',
+    phone: '+91 6392556772',
+    linkedIn: 'https://www.linkedin.com/in/rituraj-s-300064373',
+    github: 'https://github.com/KingOfSeason',
+    instagram: 'https://www.instagram.com/rituraj_shukla_',
+    resumeUrl: '/resume.pdf',
     currentlyLearning: [
-    'React.js & Frontend Frameworks',
-    'Node.js & Backend Development',
-    'Database Design & Optimization',
-    'Data Structures & Algorithms']
+    'ASP.NET Core MVC',
+    'Advance Computer Networks',
+    'Multimedia Technology',
+    'Data Structures']
 
   },
 
@@ -132,7 +132,7 @@ export const portfolioData = {
   {
     id: 2,
     degree: 'Intermediate (12th Grade)',
-    institution: 'UP Board',
+    institution: 'DSM Inter College Yashoda Nagar Kanpur',
     year: '2024',
     score: '84%',
     scoreLabel: 'Percentage',
@@ -143,7 +143,7 @@ export const portfolioData = {
   {
     id: 3,
     degree: 'High School (10th Grade)',
-    institution: 'UP Board',
+    institution: 'DSM Inter College Yashoda Nagar Kanpur',
     year: '2022',
     score: '86%',
     scoreLabel: 'Percentage',
@@ -156,7 +156,7 @@ export const portfolioData = {
   experience: [
   {
     id: 1,
-    role: 'Software Development Intern',
+    role: 'Java Developer Intern',
     organization: 'CodeAlpha',
     duration: 'June 2025 – July 2025 · 1 Month',
     type: 'Internship',
@@ -172,7 +172,7 @@ export const portfolioData = {
   {
     id: 2,
     role: 'Industrial Training',
-    organization: 'BTPS (Barh Thermal Power Station)',
+    organization: 'BTPS',
     duration: '2025 · Technical Training Program',
     type: 'Training',
     description: [
@@ -181,7 +181,7 @@ export const portfolioData = {
     'Learned about industrial computing systems and safety protocols.',
     'Observed real-world application of engineering and technology concepts.'],
 
-    skills: ['Industrial Systems', 'Technical Documentation', 'Safety Protocols'],
+    skills: ['Industrial Systems', 'Technical Documentation'],
     icon: 'AcademicCapIcon'
   }] as
   ExperienceItem[],
@@ -221,7 +221,7 @@ export const portfolioData = {
   {
     id: 1,
     title: 'Industrial Training Certificate',
-    issuer: 'BTPS (Barh Thermal Power Station)',
+    issuer: 'BTPS',
     date: '2025',
     type: 'Training',
     placeholder: true
