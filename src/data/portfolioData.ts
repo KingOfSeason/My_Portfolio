@@ -322,7 +322,7 @@ export const portfolioData = {
         'https://lnkd.in/p/e2H8rE3u',
 
       image:
-        'https://img.rocket.new/generatedImages/rocket_gen_img_1e63f61fc-1768541670466.png',
+        'https://tse1.mm.bing.net/th/id/OIP.cPUfVXtynFYGCRZ8fc5bnQHaD4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
 
       featured: true,
     },
@@ -351,9 +351,37 @@ export const portfolioData = {
       liveUrl: 'https://www.linkedin.com/posts/rituraj-s-300064373_csharp-csharpdeveloper-dotnet-activity-7505288124172873728-lsfp?',
 
       image:
-        'https://img.rocket.new/generatedImages/rocket_gen_img_1190944d7-1772351148685.png',
+        'https://tse2.mm.bing.net/th/id/OIP.0lHHRRQqQPMAapKEHrY-cwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
 
       featured: false,
+    },
+    {
+      id: 3,
+
+      name: 'E-Commerce website',
+
+      description:
+        'A fast, modern e-commerce platform built with Next.js 15, React 19, and Tailwind CSS, featuring server-side rendering and responsive design.',
+
+      longDescription:
+        'A fast, scalable, and fully responsive e-commerce web platform built with Next.js 15, React 19, and Tailwind CSS.',
+
+      tech: [
+        'Next.js',
+        'GitHub',
+        'Tailwind CSS',
+      ],
+
+      githubUrl:
+        'https://github.com/KingOfSeason/E_commerce-website.git',
+
+      liveUrl:
+        'https://lnkd.in/p/d2MMZJRN',
+
+      image:
+        'https://media.istockphoto.com/id/1394653946/vector/e-commerce-ecommerce-web-banner-on-blue-background-various-shopping-icons.jpg?s=170667a&w=0&k=20&c=lqcgciJ_1HJsSSpMsT6ILhrnbTkctbnjEFZT0tRWdDE=',
+
+      featured: true,
     },
   ] as ProjectItem[],
 
